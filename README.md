@@ -1,1 +1,6 @@
-All programming projects from Advanced Algorithms CS 601 @ CSU East Bay
+Various Algorithm programming projects including: 
+Breadth First Search
+Binary Search Tree
+MergeSort
+QuickSort
+Final p = Optimal Matrix Chain Multiplication Algorithm

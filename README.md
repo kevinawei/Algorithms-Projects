@@ -1,4 +1,4 @@
-Various Algorithm programming projects by Kaiwen Wei including: 
+Various Advanced Algorithm programming projects by Kaiwen Wei including: 
 - Breadth First Search
 - Binary Search Tree
 - MergeSort

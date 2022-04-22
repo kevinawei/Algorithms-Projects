@@ -3,4 +3,4 @@ Various Algorithm programming projects by Kaiwen Wei including:
 - Binary Search Tree
 - MergeSort
 - QuickSort
-- Final project (finalp.java) - Optimal Matrix Chain Multiplication Algorithm
+- Final project (finalP.java) - Optimal Matrix Chain Multiplication Algorithm
